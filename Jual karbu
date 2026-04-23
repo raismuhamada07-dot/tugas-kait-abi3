@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Judul Halaman Saya</title>
+</head>
+<body>
+    <h1>Halo Dunia!</h1>
+    <p>Ini adalah konten pertama saya di HTML.</p>
+</body>
+</html>
